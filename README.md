@@ -31,8 +31,8 @@ To create an app flashcard and cloze-deleted flashcard utilizing javascript call
 
     * Then select between `flashcards` and `clozecard`
 
-    *`flashcards`
+    * `flashcards`
     ![Create flashcard prompt](/images/SC7.png)
 
-    *`clozecards`
+    * `clozecards`
     ![Create flashcard prompt](/images/SC8.png)
